@@ -1,0 +1,12 @@
+# First step
+create the application with the command:
+
+-
+
+#Second
+install dependencies:
+npm install react-router-dom axios
+
+instalação do redux
+
+npm install redux react-redux
